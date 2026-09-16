@@ -74,11 +74,11 @@ Synthetic dataset simulating 200 housing options across:
 
 ##  Hackathon Judging Criteria Alignment
 
-✅ **Innovation**: Fuzzy Logic for livability assessment (unique approach)  
-✅ **Technical Implementation**: ML + Fuzzy Logic + Interactive UI  
-✅ **SDG Impact**: Addresses SDG 11 (Affordable Housing & Sustainable Cities)  
-✅ **User Experience**: Modern, intuitive dark-themed dashboard  
-✅ **Scalability**: Modular code, easy to extend with real data
+-  **Innovation**: Fuzzy Logic for livability assessment (unique approach)  
+- **Technical Implementation**: ML + Fuzzy Logic + Interactive UI  
+- **SDG Impact**: Addresses SDG 11 (Affordable Housing & Sustainable Cities)  
+- **User Experience**: Modern, intuitive dark-themed dashboard  
+- **Scalability**: Modular code, easy to extend with real data
 
 ---
 
