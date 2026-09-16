@@ -1,4 +1,4 @@
-# 🏘️ SmartHabit-MY
+#  SmartHabit-MY
 
 **AI-Driven Housing Affordability & Inclusivity Dashboard for Malaysia**
 
@@ -6,7 +6,7 @@ SDG XI Hackathon 2025 | Smart Mobility & Communities | SDG 11: Sustainable Citie
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 SmartHabit-MY is an intelligent dashboard that helps Malaysians find affordable and livable housing options using cutting-edge AI technologies:
 
@@ -16,7 +16,7 @@ SmartHabit-MY is an intelligent dashboard that helps Malaysians find affordable 
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 
@@ -32,7 +32,7 @@ The dashboard will open in your browser at `http://localhost:8501`
 
 ---
 
-## 💡 Key Features
+##  Key Features
 
 ### 1. **Fuzzy Livability Logic Engine** (Innovation Highlight)
 - Uses fuzzy inference to assess housing livability
@@ -52,7 +52,7 @@ The dashboard will open in your browser at `http://localhost:8501`
 
 ---
 
-## 🎨 Technology Stack
+##  Technology Stack
 
 - **Frontend**: Streamlit with custom CSS (Dark Theme + Neon Accents)
 - **Data Processing**: Pandas, NumPy
@@ -62,7 +62,7 @@ The dashboard will open in your browser at `http://localhost:8501`
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 Synthetic dataset simulating 200 housing options across:
 - Kuala Lumpur & Selangor locations
@@ -72,7 +72,7 @@ Synthetic dataset simulating 200 housing options across:
 
 ---
 
-## 🏆 Hackathon Judging Criteria Alignment
+##  Hackathon Judging Criteria Alignment
 
 ✅ **Innovation**: Fuzzy Logic for livability assessment (unique approach)  
 ✅ **Technical Implementation**: ML + Fuzzy Logic + Interactive UI  
@@ -82,7 +82,7 @@ Synthetic dataset simulating 200 housing options across:
 
 ---
 
-## 📝 Usage Example
+##  Usage Example
 
 1. Select your preferred location (e.g., Cyberjaya)
 2. Set your budget (e.g., RM 2000)
@@ -92,7 +92,7 @@ Synthetic dataset simulating 200 housing options across:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Integration with real Malaysian property APIs
 - Multi-criteria decision analysis (MCDA)
@@ -102,13 +102,3 @@ Synthetic dataset simulating 200 housing options across:
 
 ---
 
-## 👨‍💻 Developer
-
-Built for SDG XI Hackathon 2025  
-Focus: Smart Mobility & Communities (Housing & Urban Planning)
-
----
-
-## 📄 License
-
-MIT License - Feel free to use and modify for your projects
